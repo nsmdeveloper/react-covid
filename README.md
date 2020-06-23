@@ -26,8 +26,8 @@ Para obtener los datos de los casos de covid-19 en los diferentes paises se util
 Los archivos principales de la aplicacion son:
 ==============================================
 
-*index.php : aqui se define la etiqueta donde se mostrara los componentes creados con react, una etiqueta "div" con id='root'.
+*index.php : aqui se define la etiqueta donde se mostrara los componentes creados con react, una etiqueta "div" con id='root'. <a href="https://github.com/nsmdeveloper/react-covid/blob/master/index.php">Ver codigo fuente</a>
 
-*covid.js: aqui se encuentra el codigo fuente de los componentes react utilizados en la aplicacion. Ver el codigo fuente de este archivo para entender el funcionamiento de la app.
+*covid.js: aqui se encuentra el codigo fuente de los componentes react utilizados en la aplicacion. <a href="https://github.com/nsmdeveloper/react-covid/blob/master/covid.js">Ver el codigo fuente</a> de este archivo para entender el funcionamiento de la app.
 
 
