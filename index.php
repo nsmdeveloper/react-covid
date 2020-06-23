@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Covid Results</title>
+<title>Consultar Casos de Covid-19</title>
   <link rel="stylesheet" href="./css/bootstrap.min.css" 
 type="text/css">
 
