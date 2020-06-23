@@ -25,7 +25,9 @@ Tecnologias web utilizadas:
 Servicios Externos (API's): 
 =============================
 
-Para obtener los datos de los casos de covid-19 en los diferentes paises se utiliza el servicio "covid19.mathdro.id/api/"
+- Para obtener los datos de los casos de covid-19 en los diferentes paises se utiliza el servicio "covid19.mathdro.id/api/".
+
+- Para mostrar la bandera del pais seleccionado se utiliza el servicio "countryflags.io".
 
 Los archivos principales de la aplicacion son:
 ==============================================
