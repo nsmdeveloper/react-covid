@@ -1,0 +1,29 @@
+[
+  {
+    "name" : "C,C++",
+    "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
+  }
+  ,
+  {
+    "name" : "PHP",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2HnSpd1uURxmcR8EiYyqaGXs8OqSfRp3c8oDkBhxeFBRURJgX&usqp=CAU"
+  },
+  {
+    "name" : "JAVA",
+    "imageUrl" : "https://revistadigital.inesem.es/informatica-y-tics/files/2015/10/inesem-java-1024x768.jpg"
+  },
+  {
+    "name" : "JAVASCRIPT",
+    "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+  },
+  {
+    "name" : "PYTHON",
+    "imageUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+  },
+  
+  {
+    "name" : "C#",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStkNdhq_B_WyBL0hKq5IeWjJELU2BH6ja5yZkmukcFSl5SW4_5&usqp=CAU"
+  }
+
+]
