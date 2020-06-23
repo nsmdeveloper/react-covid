@@ -567,12 +567,16 @@ class CovidCases extends React.Component {
 </select>
     );
 
+let flag = "https://www.countryflags.io/"+this.state.country+"/shiny/64.png";
+
 let resultados = "";
 
     if (Object.keys(this.state.country_obj).length  > 0 && !('error' in this.state.country_obj)) {
 
       resultados = (
         <div style={{width:"100%", border:"1px blue groove", marginTop : "20px", padding:"10px"}}>
+          <img src={flag} />
+
           <h3><u>{countryList[this.state.country]}</u></h3>
           <br />
           <p><b>Confirmados:</b> {this.state.country_obj.confirmed.value}</p>
