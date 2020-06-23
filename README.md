@@ -10,27 +10,28 @@ Proyecto desarrollado con ReactJS sobre consulta de casos de Covid-19 en los dif
 
 Natanael Sanchez M. <a href="https://serene-badlands-04656.herokuapp.com/">Ver Pagina</a>
 
-# Detalles tecnicos de programacion (development):
+Detalles tecnicos de programacion (development):
+===================================================
 
 -Descripcion: esta una aplicacion para consultar casos de covid-19 cuando se selecciona con el dropdown de paises.
 
-Tecnologias web utilizadas:
-===========================
+# *Tecnologias web utilizadas:
+
 
 *HTML <br />
 *CSS  <br />
 *JAVSCRIPT  <br />
 *REACTJS  <br />
 
-Servicios Externos (API's): 
-=============================
+# *Servicios Externos (API's): 
+
 
 - Para obtener los datos de los casos de covid-19 en los diferentes paises se utiliza el servicio "covid19.mathdro.id/api/".
 
 - Para mostrar la bandera del pais seleccionado se utiliza el servicio "countryflags.io".
 
-Los archivos principales de la aplicacion son:
-==============================================
+# *Los archivos principales de la aplicacion son:
+
 
 *index.php : aqui se define la etiqueta donde se mostrara los componentes creados con react, una etiqueta "div" con id='root'. <a href="https://github.com/nsmdeveloper/react-covid/blob/master/index.php">Ver codigo fuente</a>
 
