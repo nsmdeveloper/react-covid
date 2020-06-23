@@ -1,10 +1,14 @@
-# react-covid
+# App: react-covid
 Proyecto desarrollado con ReactJS sobre consulta de casos de Covid-19 en los diferentes paises.
 
-# demo url: <a href="https://pure-hamlet-45267.herokuapp.com/" target="_blank">https://pure-hamlet-45267.herokuapp.com</a>
+# Demo url: <a href="https://pure-hamlet-45267.herokuapp.com/" target="_blank">https://pure-hamlet-45267.herokuapp.com</a>
 
-# demo imagen:
+# Demo imagen:
 <img src="https://github.com/nsmdeveloper/react-covid/blob/master/react-covid.png" title="react-covid19-app" />
+
+# Programador (Developer): 
+
+Natanael Sanchez M. <a href="https://serene-badlands-04656.herokuapp.com/">Ver Pagina</a>
 
 # Detalles tecnicos de programacion (development):
 
