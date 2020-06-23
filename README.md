@@ -19,10 +19,7 @@ Proyecto desarrollado con ReactJS sobre consulta de casos de Covid-19 en los dif
 
 -Servicios Externos (API's): 
 
-Para obtener los datos de los casos de covid-19 en los diferentes paises se utiliza el servicio : 
-
-* https://covid19.mathdro.id/api/countries/do
-
+Para obtener los datos de los casos de covid-19 en los diferentes paises se utiliza el servicio "covid19.mathdro.id/api/"
 
 Los archivos principales de la aplicacion son:
 
@@ -30,6 +27,6 @@ Los archivos principales de la aplicacion son:
 
 <div id="root"></div>
 
-*covid.js: aqui se encuentra el codigo fuente de los componentes react utilizados en la aplicacion.
+*covid.js: aqui se encuentra el codigo fuente de los componentes react utilizados en la aplicacion. Ver el codigo fuente de este archivo para entender el funcionamiento de la app.
 
 
