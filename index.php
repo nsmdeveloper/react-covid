@@ -20,9 +20,9 @@ type="text/css">
    <script src="./js/main.js" type="text/javascript"></script>
 
 </head>
-  <body>
+  <body style="background-color: #818c89;">
   
-    <div id="root"></div>
+    <div id="root" style="width:600px;margin:0 auto;background-color: #ffffff"></div>
     <script type="text/babel" src="covid.js"></script>
   </body>
 </html>

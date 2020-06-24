@@ -845,7 +845,7 @@ let resultados = "";
     }
 
     return (
-      <div style={{width: "600px", height:"auto", border:"3px orange groove", padding:"30px", margin:"50px auto",textAlign: "center"}}>    
+      <div style={{width: "600px", height:"auto", border:"3px orange groove", padding:"30px", margin:"50px auto",textAlign: "center", backgroundColor : "#ffffff;"}}>    
       <h3 style={{}}>Consulta casos de Covid-19:</h3>
       <form onSubmit={this.mySubmitHandler}>
       {countries}
